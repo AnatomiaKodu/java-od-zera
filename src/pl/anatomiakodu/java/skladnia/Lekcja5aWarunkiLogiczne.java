@@ -14,7 +14,7 @@ public class Lekcja5aWarunkiLogiczne {
         warunekZPorownaniem(warunek2);
     }
 
-    private static void warunekZPorownaniem(boolean warunek2) {
+    static void warunekZPorownaniem(boolean warunek2) {
         if (warunek2 == false) {
             System.out.println("Spełniono warunek 5");
         } else {
@@ -28,7 +28,7 @@ public class Lekcja5aWarunkiLogiczne {
         }
     }
 
-    private static void ifElsePrzyklad() {
+    static void ifElsePrzyklad() {
         Integer zmienna1 = 4;
         if (zmienna1 + 2 >= 6) {
             System.out.println("Spełniono warunek 4a");
@@ -39,7 +39,7 @@ public class Lekcja5aWarunkiLogiczne {
         }
     }
 
-    private static void negacjaPrzyklad(Boolean warunek1, boolean warunek2) {
+    static void negacjaPrzyklad(Boolean warunek1, boolean warunek2) {
         if (warunek1 && !warunek2) {
             System.out.println("Spełniono warunek 3");
         } else {
@@ -47,7 +47,7 @@ public class Lekcja5aWarunkiLogiczne {
         }
     }
 
-    private static void orPrzyklad(Boolean warunek1, boolean warunek2) {
+    static void orPrzyklad(Boolean warunek1, boolean warunek2) {
         if (warunek1 || warunek2) {
             System.out.println("Spełniono warunek 2");
         } else {
@@ -55,7 +55,7 @@ public class Lekcja5aWarunkiLogiczne {
         }
     }
 
-    private static void andPrzyklad(Boolean warunek1, boolean warunek2) {
+    static void andPrzyklad(Boolean warunek1, boolean warunek2) {
         if (warunek1 && warunek2) {
             System.out.println("Spełniono warunek 1");
         }

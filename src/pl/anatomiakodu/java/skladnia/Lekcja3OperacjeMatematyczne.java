@@ -25,14 +25,5 @@ public class Lekcja3OperacjeMatematyczne {
         System.out.println(wynik);
         System.out.println("Czy to jest NaN? - " + wynik.isNaN());
         System.out.println("===================");
-
-        // Rzutowanie
-        System.out.println("Rzutowanie:");
-        Double liczbaZmiennoprzecinkowa = 2.0;
-        // int wynik2 = liczba1 / liczbaZmiennoprzecinkowa;
-        // System.out.println(wynik2);
-        int wynik3 = liczba1 / liczbaZmiennoprzecinkowa.intValue();
-        System.out.println(wynik3);
-        System.out.println("===================");
     }
 }

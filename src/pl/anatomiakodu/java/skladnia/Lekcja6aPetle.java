@@ -3,47 +3,62 @@ package pl.anatomiakodu.java.skladnia;
 public class Lekcja6aPetle {
 
     public static void main(String[] args) {
-        petlaForPrzyklad();
+        petlaForPrzyklad1();
+        petlaForPrzyklad2();
         petlaWhilePrzyklad();
-        petlaPrzyklad();
+        petlaNieskończona();
         petlaDoWhile();
     }
 
-    private static void petlaDoWhile() {
+    static void petlaDoWhile() {
         // Pętla Do/While
+        // najpierw logika potem warunek
         System.out.println("===");
         System.out.println("Pętla do/while:");
         Integer uczenNumer = 1;
+        // do zawiera logikę do wykonania
         do {
             System.out.println("Wyswietlono ucznia nr: " + uczenNumer);
             uczenNumer = uczenNumer + 3;
-        // Wyswietl tak długo dopóki:
+        // while zawiera warunek jaki trzeba spełnić by logika wykonała się poraz koeljny
         } while (uczenNumer >= 10);
         System.out.println("===");
     }
 
-    private static void petlaPrzyklad() {
+    static void petlaNieskończona() {
         // Pętla nieskończona
 //        while (true) {
 //            System.out.println("ups...");
 //        }
     }
 
-    private static void petlaForPrzyklad() {
-        // Pętla for
+    private static void petlaForPrzyklad2() {
+        System.out.println("Kolejna pętla for:");
+        int indeks = 20;
+        for (; indeks > 10; indeks--) {
+            System.out.println("Powtórzenie nr: " + indeks);
+        }
+        System.out.println("===");
+    }
+
+    private static void petlaForPrzyklad1() {
         System.out.println("Pętla for:");
         System.out.println("===");
+        // Pętla for definicja
+        // wyrażenie wykonywane na początku pętli ; warunek sprawdzany po każdej iteracji ; wyrażenie wykonywane po każdej iteracji
         for (int indeks = 0; indeks <= 10; indeks++) {
             System.out.println("Powtórzenie nr: " + indeks);
         }
+        System.out.println("===");
     }
 
-    private static void petlaWhilePrzyklad() {
+    static void petlaWhilePrzyklad() {
         // Pętla while
+        // najpierw warunek potem logika
         System.out.println("===");
         System.out.println("Pętla while:");
         Integer iloscUcziowDoWyswietlenia = 10;
-        // Wyswietl tak długo dopóki:
+        // while zawiera warunek jaki trzeba spełnić by logika się wykonała
         while (iloscUcziowDoWyswietlenia > 0) {
             System.out.println("Wyswietlono ucznia nr: " + iloscUcziowDoWyswietlenia);
             iloscUcziowDoWyswietlenia = iloscUcziowDoWyswietlenia - 1;

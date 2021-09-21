@@ -14,15 +14,20 @@ public class Lekcja2bZmienneGlobalne {
         System.out.println(tekstowaZmiennaLokalna);
         System.out.println(tekstowaZmiennaGlobalna);
 
-        System.out.println(liczbowaZmiennaLokalna);
-        System.out.println(liczbowaZmiennaGlobalna);
+        przykladWMetodzie();
 
         System.out.println("###");
         System.out.println("Local vs Global");
         System.out.println("###");
         System.out.println("lokalnie: " + warunek);
         System.out.println("globalnie: " + Lekcja2bZmienneGlobalne.warunek);
+    }
 
+    private static void przykladWMetodzie() {
+        Integer liczbowaZmiennaLokalna = 555;
+        // Nie mamy dostępu do liczbowaZmiennaLokalna w metodzie main
+        System.out.println(liczbowaZmiennaLokalna);
+        System.out.println(liczbowaZmiennaGlobalna);
     }
 
 }

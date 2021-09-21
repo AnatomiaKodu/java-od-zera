@@ -12,7 +12,7 @@ public class Lekcja2aZmienne {
     }
 
     static void typyPrymitywne() {
-        // Typy prymitywne - Primitive Data Types
+        // Typy prymitywne
         byte malaLiczba1 = 127;
         byte malaLiczba2 = -128;
         short liczbaSredniejWielkosci1 = 32767;
@@ -43,7 +43,7 @@ public class Lekcja2aZmienne {
     }
 
     static void przykladFinal() {
-        // final
+        // final to zmienne których nie można edytować
         final Double pi = 3.14d;
         Double result = 123.239;
         result = result + 1;
@@ -51,14 +51,22 @@ public class Lekcja2aZmienne {
     }
 
     static void nullPrzyklad() {
-        // wartość null
+        // wartość null - a w zasadzie brak żadnej wartości
         String nulltext = null;
         String emptytext = "";
         Integer myNumber = null;
     }
 
+    static void typyObiektowe() {
+        // Typy Obiektowe są klasami. Przyjęto że są pisane z wielkiej litery.
+        String text = "Hello world!";
+        Integer number = 232434;
+        Double result = 23.2332d;
+        // itd. ;)
+    }
+
     static void operacjeNaTypachObiektowych() {
-        // Obiekty i metody
+        // Typy Obiektowe - ich przykładowe pola oraz metody
         Integer value = Integer.MAX_VALUE;
         Integer minValue = Integer.MIN_VALUE;
 
@@ -66,13 +74,5 @@ public class Lekcja2aZmienne {
         result.toString();
         result.compareTo(12.3d);
         result.equals(12d);
-    }
-
-    static void typyObiektowe() {
-        // Typy Obiektowe
-        String text = "Hello world!";
-        Integer number = 232434;
-        Double result = 23.2332d;
-        // itd. ;)
     }
 }

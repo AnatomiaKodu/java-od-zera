@@ -16,7 +16,7 @@ public class Lekcja2cZmienneEnum {
 
         System.out.println(DniTygodnia.WTOREK);
 
-        // z tekstu do enum
+        // konwersja z tekstu do enum
         Kolor niebieski = Kolor.valueOf("NIEBIESKI");
         System.out.println(niebieski.ordinal());
     }

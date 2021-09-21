@@ -24,6 +24,7 @@ public class Lekcja3Tekst {
     }
 
     static void laczenieTekstu() {
+        // StringBuilder klasa służąca do edytowania tekstu
         introPrzyklad();
         przykladZLaczeniem();
         przykladZOperacjami();
