@@ -11,7 +11,6 @@ public class Lekcja5bWarunkiLogiczneSwitch {
     }
 
     public static void main(String[] args) {
-
         Kolor zielony = Kolor.CIEMNY_ZIELONY;
 
         wyswietlKolor(zielony);

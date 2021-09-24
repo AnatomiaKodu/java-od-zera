@@ -1,13 +1,22 @@
 package pl.anatomiakodu.java.skladnia;
 
+// import pozwala Ci korzystać z gotowych klas
+// importy zawsze znajduą się na samej górze klasy tuż pod informacją o pakiecie (package)
 import java.util.Arrays;
 
-public class Lekcja7Kolekcje {
+public class Lekcja7aKolekcjeTablica {
 
     public static void main(String[] args) {
+        start();
+        tablicaIPetla();
+        operacjeNaTablicach();
+        tablicaDwuWymiarowa();
 
-        // tablice
+    }
+
+    static void start() {
         System.out.println("===");
+        // tablice
         System.out.println("tablice");
 
         // definicja pustej tablicy
@@ -21,15 +30,21 @@ public class Lekcja7Kolekcje {
         System.out.println(tablicaSlow[0]);
         System.out.println(tablicaSlow[1]);
         System.out.println(tablicaSlow[7]);
+        System.out.println("===");
+    }
 
+    static void tablicaIPetla() {
         System.out.println("===");
         System.out.println("Tablica + Pętla");
-
+        String[] tablicaSlow = {"a", "b", "c", "d", "e"};
         System.out.println("Ilosc elementów w tablicy: " + tablicaSlow.length);
         for (int indeks = 0; indeks < tablicaSlow.length; indeks++) {
             System.out.println(tablicaSlow[indeks]);
         }
+        System.out.println("===");
+    }
 
+    static void operacjeNaTablicach() {
         System.out.println("===");
         // definicja tablicy z elementami
         int[] tablicaLiczb1 = {1, 23, 45, 7, 41};
@@ -41,17 +56,35 @@ public class Lekcja7Kolekcje {
         int[] tablicaLiczb2 = {0, 1, 2, 3, 4, 5};
         System.arraycopy(tablicaLiczb2, 2, tablicaLiczb1, 0, 3);
 
+        // Warto sprawdzić dokuementację klasy Arrays
+        // klasa Arrays została zaimportowana na samym początku tego pliku.
+        // https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
+
         Arrays.copyOf(tablicaLiczb1, 2);
         System.arraycopy(tablicaLiczb1, 1, tablicaLiczb2, 2, 4);
 
-//        int[] suma = Arrays.fill();
+        int[] suma = new int[5];
+        Arrays.fill(suma, 123);
+        for (int indeks = 0; indeks < suma.length; indeks++) {
+            System.out.println(suma[indeks]);
+        }
+        System.out.println("===");
+    }
 
-        String[][] tytuly = {
-                {"Pan. ", "Pani. "},
-                {"Kowalski", "Nowak", "Lewandowski", "Boniek"}
+    static void tablicaDwuWymiarowa() {
+        System.out.println("===");
+        String[][] zwierzeta = {
+                // tu są koty
+                {"Kot", "Lew", "Tygrys", "Puma"},
+                // tu są psy
+                {"Labrador", "Doberman", "Owczarek Niemiecki"}
         };
 
-        String tytulyPanaNowaka = tytuly[0][1];
-        String tytulyPaniBoniek = tytuly[1][3];
+        String kot = zwierzeta[0][2];
+        String pies = zwierzeta[1][0];
+
+        System.out.println(kot);
+        System.out.println(pies);
+        System.out.println("===");
     }
 }

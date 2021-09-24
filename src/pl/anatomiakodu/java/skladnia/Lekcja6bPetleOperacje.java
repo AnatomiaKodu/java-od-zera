@@ -9,6 +9,7 @@ public class Lekcja6bPetleOperacje {
     }
 
     static void przykladWewnetrznePetle() {
+        System.out.println("===");
         System.out.println("Wyswietl tabliczkę mnożenia:");
         for (int indeksX = 1; indeksX < 10; ++indeksX) {
             System.out.println("Mnożymy teraz: " + indeksX);
@@ -17,9 +18,11 @@ public class Lekcja6bPetleOperacje {
             }
             System.out.println("koniec wewnętrznej pętli");
         }
+        System.out.println("===");
     }
 
     static void przykladBreak() {
+        System.out.println("===");
         Integer numerZawodnika = 0;
         while (true) {
             if (numerZawodnika == 5) {
@@ -29,9 +32,11 @@ public class Lekcja6bPetleOperacje {
             }
             ++numerZawodnika;
         }
+        System.out.println("===");
     }
 
     static void przykladContinue() {
+        System.out.println("===");
         for (int indeks = 0; indeks < 10; indeks++) {
             if (indeks % 2 == 1) {
                 System.out.println("STOP! Liczba " + indeks + " jest nieparzysta");
@@ -40,5 +45,6 @@ public class Lekcja6bPetleOperacje {
             }
             System.out.println("Liczba " + indeks + " jest parzysta");
         }
+        System.out.println("===");
     }
 }

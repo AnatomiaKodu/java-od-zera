@@ -27,6 +27,7 @@ public class Lekcja2bZmienneGlobalne {
         Integer liczbowaZmiennaLokalna = 555;
         // Nie mamy dostępu do liczbowaZmiennaLokalna w metodzie main
         System.out.println(liczbowaZmiennaLokalna);
+        // Za to cały czas mamy dostęp do liczbowaZmiennaGlobalna
         System.out.println(liczbowaZmiennaGlobalna);
     }
 

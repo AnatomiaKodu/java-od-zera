@@ -7,7 +7,12 @@ class Lekcja0Komentarze {
     // tak wygląda 1 liniowy komentarz ;)
 
     /*
-        Tak wygląda kilkulinijkowy komentarz
+        Tak wygląda zwykły kilkulinijkowy komentarz
+     */
+
+    /**
+     * Komentarz specjalny. Używany jest w np. w dokumentacji klasy.
+     * Jest wyświetlany w ładniejszy sposób.
      */
 
     /*

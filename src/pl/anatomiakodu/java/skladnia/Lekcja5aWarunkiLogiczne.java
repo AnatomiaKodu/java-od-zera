@@ -3,19 +3,64 @@ package pl.anatomiakodu.java.skladnia;
 public class Lekcja5aWarunkiLogiczne {
 
     public static void main(String[] args) {
-
-        Boolean warunek1 = true;
-        boolean warunek2 = false;
-
-        andPrzyklad(warunek1, warunek2);
-        orPrzyklad(warunek1, warunek2);
-        negacjaPrzyklad(warunek1, warunek2);
+        andPrzyklad();
+        orPrzyklad();
+        negacjaPrzyklad();
         ifElsePrzyklad();
-        warunekZPorownaniem(warunek2);
+        warunekZPorownaniem();
     }
 
-    static void warunekZPorownaniem(boolean warunek2) {
-        if (warunek2 == false) {
+    static void andPrzyklad() {
+        System.out.println("===");
+        Boolean warunek1 = true;
+        boolean warunek2 = false;
+        if (warunek1 && warunek2) {
+            System.out.println("Spełniono warunek 1");
+        }
+        System.out.println("===");
+    }
+
+    static void orPrzyklad() {
+        System.out.println("===");
+        boolean warunek1 = true;
+        boolean warunek2 = false;
+        if (warunek1 || warunek2) {
+            System.out.println("Spełniono warunek 2");
+        } else {
+            System.out.println("Nie spełniono warunku 1");
+        }
+        System.out.println("===");
+    }
+
+    static void negacjaPrzyklad() {
+        System.out.println("===");
+        Boolean warunek1 = true;
+        Boolean warunek2 = false;
+        if (warunek1 && !warunek2) {
+            System.out.println("Spełniono warunek 3");
+        } else {
+            System.out.println("Nie spełniono warunku 1");
+        }
+        System.out.println("===");
+    }
+
+    static void ifElsePrzyklad() {
+        System.out.println("===");
+        Integer zmienna1 = 4;
+        if (zmienna1 + 2 >= 6) {
+            System.out.println("Spełniono warunek 4a");
+        } else if (zmienna1 + 2 < 6) {
+            System.out.println("Spełniono warunek 4b");
+        } else {
+            System.out.println("Nie spełniono warunku 4");
+        }
+        System.out.println("===");
+    }
+
+    static void warunekZPorownaniem() {
+        System.out.println("===");
+        boolean warunek = false;
+        if (warunek == false) {
             System.out.println("Spełniono warunek 5");
         } else {
             System.out.println("Nie spełniono warunku 5");
@@ -26,38 +71,6 @@ public class Lekcja5aWarunkiLogiczne {
         } else {
             System.out.println("Nie spełniono warunku 5");
         }
-    }
-
-    static void ifElsePrzyklad() {
-        Integer zmienna1 = 4;
-        if (zmienna1 + 2 >= 6) {
-            System.out.println("Spełniono warunek 4a");
-        } else if (zmienna1 + 2 < 6) {
-            System.out.println("Spełniono warunek 4b");
-        } else {
-            System.out.println("Nie spełniono warunku 4");
-        }
-    }
-
-    static void negacjaPrzyklad(Boolean warunek1, boolean warunek2) {
-        if (warunek1 && !warunek2) {
-            System.out.println("Spełniono warunek 3");
-        } else {
-            System.out.println("Nie spełniono warunku 1");
-        }
-    }
-
-    static void orPrzyklad(Boolean warunek1, boolean warunek2) {
-        if (warunek1 || warunek2) {
-            System.out.println("Spełniono warunek 2");
-        } else {
-            System.out.println("Nie spełniono warunku 1");
-        }
-    }
-
-    static void andPrzyklad(Boolean warunek1, boolean warunek2) {
-        if (warunek1 && warunek2) {
-            System.out.println("Spełniono warunek 1");
-        }
+        System.out.println("===");
     }
 }

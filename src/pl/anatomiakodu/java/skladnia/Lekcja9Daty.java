@@ -2,7 +2,7 @@ package pl.anatomiakodu.java.skladnia;
 
 import java.time.LocalDate;
 
-public class Lekcja99Daty {
+public class Lekcja9Daty {
 
     public static void main(String[] args) {
 

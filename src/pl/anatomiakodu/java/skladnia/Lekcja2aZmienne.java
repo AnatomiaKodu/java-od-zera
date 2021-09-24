@@ -44,35 +44,35 @@ public class Lekcja2aZmienne {
 
     static void przykladFinal() {
         // final to zmienne których nie można edytować
-        final Double pi = 3.14d;
-        Double result = 123.239;
-        result = result + 1;
-//        pi = pi + 1;
+        final Double liczbaPi = 3.14d;
+        Double wynik = 123.239;
+        wynik = wynik + 1;
+//        liczbaPi = liczbaPi + 1;
     }
 
     static void nullPrzyklad() {
         // wartość null - a w zasadzie brak żadnej wartości
-        String nulltext = null;
-        String emptytext = "";
-        Integer myNumber = null;
+        String nullTekst = null;
+        String pustyTekst = "";
+        Integer nullLiczba = null;
     }
 
     static void typyObiektowe() {
         // Typy Obiektowe są klasami. Przyjęto że są pisane z wielkiej litery.
-        String text = "Hello world!";
-        Integer number = 232434;
-        Double result = 23.2332d;
+        String tekst = "Hello world!";
+        Integer liczba = 232434;
+        Double liczbaZmiennoprzecinkowa = 23.2332d;
         // itd. ;)
     }
 
     static void operacjeNaTypachObiektowych() {
         // Typy Obiektowe - ich przykładowe pola oraz metody
-        Integer value = Integer.MAX_VALUE;
-        Integer minValue = Integer.MIN_VALUE;
+        Integer maksymalnaLiczba = Integer.MAX_VALUE;
+        Integer minimalnaLiczba = Integer.MIN_VALUE;
 
-        Double result = 123.23;
-        result.toString();
-        result.compareTo(12.3d);
-        result.equals(12d);
+        Double wynik = 123.23;
+        wynik.toString();
+        wynik.compareTo(12.3d);
+        wynik.equals(12d);
     }
 }
