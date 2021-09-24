@@ -2,6 +2,14 @@ package pl.anatomiakodu.java.skladnia;
 
 public class Lekcja5bWarunkiLogiczneSwitch {
 
+    /**
+     * BUDOWA
+     *
+     *
+     *
+     *
+     */
+
     enum Kolor {
         FIOLETOWY, JASNY_CZERWONY, ŻOLTY, CIEMNY_ZIELONY;
     }

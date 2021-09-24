@@ -2,6 +2,14 @@ package pl.anatomiakodu.java.skladnia;
 
 public class Lekcja5aWarunkiLogiczne {
 
+    /**
+     * BUDOWA
+     *
+     *
+     *
+     *
+     */
+
     public static void main(String[] args) {
         andPrzyklad();
         orPrzyklad();
