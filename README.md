@@ -7,7 +7,7 @@
 **Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?**
 
 
-### Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
+### Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
 ![logo](docs/java-logo.png)
 
@@ -15,10 +15,10 @@ Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać.
 
 Znajdziesz tutaj ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
-Czego się nauczysz?
-* komentarzy
+Czego dokładnie się nauczysz?
+* stosowania komentarzy
 * metoda ***Main***, klasy i metody
-* rodzaje zmiennych w Java
+* rodzaje zmiennych w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
 * importowanie ***klas***
 * operacje matematyczne
@@ -27,7 +27,7 @@ Czego się nauczysz?
 * Pętle ***for***, ***for-each***, ***while***, ***do-while***
 * tablice, listy i zbiory
 * mapy
-* wyjątki typu Runtime
+* wyjątki typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 
 ![zdjecie](docs/photo1.png)
