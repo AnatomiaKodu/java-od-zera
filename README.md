@@ -52,6 +52,8 @@ W komentarzach znajdziesz opis składni javy oraz operacji które zostały napis
 
 Zmienne są zdefiniowane ze znakiem $ tak by było łatwiej odróżnić je od kodu.
 
+[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680) 
+
 Przykład:
 ```java
   switch($sprawdzana-zmienna) {
