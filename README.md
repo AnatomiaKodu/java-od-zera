@@ -17,7 +17,7 @@ Znajdziesz tutaj prawie 20 lekcji, które omawiają podstawowe zagadenia w najpr
 
 Czego dokładnie się nauczysz?
 * stosowania komentarzy
-* metoda ***Main***, klasy i metody
+* metoda ***main***, klasy i metody
 * rodzaje zmiennych w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
 * importowanie ***klas***
@@ -68,7 +68,7 @@ Przykład:
 ```
 ![zdjecie](docs/photo2.png)
 
-##Kim jestem?
+## Kim jestem?
 
 Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność od kąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
@@ -78,7 +78,9 @@ Możesz mnie śledzić tutaj:
 [Instagram](https://www.instagram.com/anatomiakodu/)
 [Strona www](https://anatomiakodu.pl/)
 
-##Dalsze plany
+---
+
+## Plany na przyszłość
 
 Zagadnienia które można omówić w kolejnej serii:
 * daty
