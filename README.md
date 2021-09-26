@@ -74,13 +74,10 @@ Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat.
  
 Możesz mnie śledzić tutaj:
 
-[Facebook](https://www.facebook.com/AnatomiaKodu)
-
-[Youtube](https://www.youtube.com/c/AnatomiaKodu)
-
-[Instagram](https://www.instagram.com/anatomiakodu/)
-
-[Strona www](https://anatomiakodu.pl/)
+[Facebook](https://www.facebook.com/AnatomiaKodu)  
+[Youtube](https://www.youtube.com/c/AnatomiaKodu)  
+[Instagram](https://www.instagram.com/anatomiakodu/)  
+[Strona www](https://anatomiakodu.pl/)  
 
 ---
 
