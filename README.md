@@ -1,8 +1,8 @@
 # Nauka Java od podstaw!
 
 #### Chciałbyś zostać programistą?
+#### Chcesz zacząć ale nie wiesz od czego?
 #### Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?
-#### Chcesz zacząć ale nie wiesz jak?
 
 ### Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
@@ -13,8 +13,8 @@ Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać.
 Znajudziesz znajdziesz ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
 Czego się nauczysz?
-* Komentarze
-* Metoda Main, klasy i metody
+* komentarze
+* metoda Main, klasy i metody
 * rodzaje zmiennych w Java
 * typy wyliczeniowe, czyli enum
 * importowanie klas
@@ -29,7 +29,15 @@ Czego się nauczysz?
 
 ![zdjecie](docs/photo1.png)
 
----
+
+## Jak zacząć?
+
+* zainstaluj Java
+* zainstaluj GIT
+* zainstaluj Intellij Idea
+* użyj komendy: `git clone https://github.com/AnatomiaKodu/wstep-do-java.git`
+* Otwórz projekt Intellij Idea
+* Możesz otworzyć Lekcję 0 !
 
 ## Instrukcja
 
