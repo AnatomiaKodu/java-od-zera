@@ -73,9 +73,13 @@ Przykład:
 Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność od kąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
 Możesz mnie śledzić tutaj:
+
 [Facebook](https://www.facebook.com/AnatomiaKodu)
+
 [Youtube](https://www.youtube.com/c/AnatomiaKodu)
+
 [Instagram](https://www.instagram.com/anatomiakodu/)
+
 [Strona www](https://anatomiakodu.pl/)
 
 ---
