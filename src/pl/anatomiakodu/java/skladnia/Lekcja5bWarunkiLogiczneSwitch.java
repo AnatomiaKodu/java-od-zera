@@ -5,8 +5,16 @@ public class Lekcja5bWarunkiLogiczneSwitch {
     /**
      * BUDOWA
      *
-     *
-     *
+     * switch($sprawdzana-zmienna) {
+     *   case x:
+     *     // kod do wykonania
+     *     break;
+     *   case y:
+     *     // kod do wykonania
+     *     break;
+     *   default:
+     *     // kod do wykonania
+     * }
      *
      */
 

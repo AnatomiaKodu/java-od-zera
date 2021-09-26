@@ -19,6 +19,7 @@ Zagadnienia poruszone w tej serii:
 * wyjątki typu Runtime
 * obsługa wyjątku try-catch oraz try-catch-final
 
+---
 
 Zagadnienia które można omówić w kolejnej serii:
 * daty

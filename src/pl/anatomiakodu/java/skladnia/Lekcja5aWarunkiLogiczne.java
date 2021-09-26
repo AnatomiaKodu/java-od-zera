@@ -5,8 +5,29 @@ public class Lekcja5aWarunkiLogiczne {
     /**
      * BUDOWA
      *
+     * warunek if
      *
+     * if($warunek){
+     *     // kod do wykonania
+     * }
      *
+     * warunek if-else
+     *
+     * if($warunek){
+     *     // kod do wykonania
+     * } else {
+     *     // kod do wykonania
+     * }
+     *
+     * wielokrotny warunek if-else
+     *
+     * if($warunek1){
+     *     // kod do wykonania
+     * } else if($warunek2) {
+     *     // kod do wykonania
+     * } else {
+     *     // kod do wykonania
+     * }
      *
      */
 

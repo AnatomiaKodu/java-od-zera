@@ -8,19 +8,19 @@ public class Lekcja6aPetle {
      * Pętla for:
      *
      * for ($wyrażenie-na-początku; $wyrażenie-na-końcu; $wyrażenie-powtarzane-za-każdym-razem) {
-     *     // logika
+     *     // kod do wykonania
      * }
      *
      * Pętla while
      *
      * while ($warunek) {
-     *     // logika
+     *     // kod do wykonania
      * }
      *
      * Pętla do-while
      *
      * do {
-     *     // logika
+     *     // kod do wykonania
      * } while ($warunek);
      *
      */
