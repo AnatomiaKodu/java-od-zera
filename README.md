@@ -13,7 +13,7 @@
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
 
-Znajdziesz tutaj ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
+Znajdziesz tutaj prawie 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
 Czego dokładnie się nauczysz?
 * stosowania komentarzy
