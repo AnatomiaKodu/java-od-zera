@@ -1,12 +1,17 @@
 # Nauka Java od podstaw!
 ![logo](docs/java-logo.png)
 
-Naucz się ze mną Java! 
-W tym projekcie znajdziesz ponad 20 lekcji Javy.   
+##### Chciałbyś zostać programistą?
+##### Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?
+##### Chcesz zacząć ale nie wiesz jak?
 
-Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c. 
+Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
-Zagadnienia poruszone w tej serii:
+Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć studiów. 
+
+Znajudziesz znajdziesz ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
+
+Czego się nauczysz?
 * Komentarze
 * Metoda Main, klasy i metody
 * rodzaje zmiennych w Java
@@ -26,6 +31,8 @@ Zagadnienia poruszone w tej serii:
 ---
 
 ## Instrukcja
+
+Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
 
 Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jednocześnie uczyć się zarówno Java jak i angielskiego. Dodatkową wartością tego podejścia jest to, że w sposób jednoznaczny kod odróżnia się od składni Java! 
 
