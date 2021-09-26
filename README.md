@@ -1,11 +1,10 @@
 # Nauka Java od podstaw!
-Nauka języka Java od podstaw!
-
 ![logo](docs/java-logo.png)
 
-Tutaj znajdziesz ponad 20 lekcji Javy. Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
+Naucz się ze mną Java! 
+W tym projekcie znajdziesz ponad 20 lekcji Javy.   
 
-W komentarzach znajdziesz opis składni javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji. 
+Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c. 
 
 Zagadnienia poruszone w tej serii:
 * Komentarze
@@ -22,9 +21,37 @@ Zagadnienia poruszone w tej serii:
 * wyjątki typu Runtime
 * obsługa wyjątku try-catch oraz try-catch-final
 
-![logo](docs/photo1.png)
+![zdjecie](docs/photo1.png)
 
 ---
+
+## Instrukcja
+
+Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jednocześnie uczyć się zarówno Java jak i angielskiego. Dodatkową wartością tego podejścia jest to, że w sposób jednoznaczny kod odróżnia się od składni Java! 
+
+W komentarzach znajdziesz opis składni javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji.
+
+Zmienne są zdefiniowane ze znakiem $ tak by łatwiej było zrozumieć instencję.
+
+Przykład:
+```java
+  switch($sprawdzana-zmienna) {
+    case wartość-1:
+      // kod do wykonania
+      break;
+    case wartość-2:
+      // kod do wykonania
+      break;
+    default:
+      // kod do wykonania
+  }
+
+```
+![zdjecie](docs/photo2.png)
+
+---
+
+##Dalsze plany
 
 Zagadnienia które można omówić w kolejnej serii:
 * daty
