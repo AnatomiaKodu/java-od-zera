@@ -1,6 +1,8 @@
 # Nauka Java od podstaw!
 Nauka języka Java od podstaw!
 
+![logo](docs/java-logo.png)
+
 Tutaj znajdziesz ponad 20 lekcji Javy. Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
 
 W komentarzach znajdziesz opis składni javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji. 
@@ -10,6 +12,7 @@ Zagadnienia poruszone w tej serii:
 * Metoda Main, klasy i metody
 * rodzaje zmiennych w Java
 * typy wyliczeniowe, czyli enum
+* importowanie klas
 * operacje matematyczne
 * operacje na tekście
 * Warunki logiczne if-else oraz switch-case
@@ -18,6 +21,8 @@ Zagadnienia poruszone w tej serii:
 * mapy
 * wyjątki typu Runtime
 * obsługa wyjątku try-catch oraz try-catch-final
+
+![logo](docs/photo1.png)
 
 ---
 
@@ -36,8 +41,12 @@ Zagadnienia które można omówić w kolejnej serii:
 * gradle? testy?
 * user input?
 
+---
+
 Zagadnienia do jeszcze innej serii:
 * SOLID
+
+---
 
 Zagadnienia do jeszcze, jeszcze innej serii:
 * Wzorce projektowe
