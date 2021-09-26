@@ -48,11 +48,11 @@ Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jed
 
 [Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680)
 
-Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
+Każda lekcja znajduje się w osobnym ***pliku*** w ***klasie***. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
+W ***komentarzach*** znajdziesz opis składni Javy oraz wytłumaczenie dla kodu który zostały napisany. 
+W ***metodach*** znajdziesz poszczególne punkty lekcji.
 
-W komentarzach znajdziesz opis składni Javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji.
-
-Zmienne są zdefiniowane ze znakiem $ tak by było łatwiej odróżnić je od kodu.
+Zmienne są zdefiniowane ze znakiem ***$*** tak by było łatwiej odróżnić je od kodu.
 
 Przykład:
 ```java
@@ -67,6 +67,8 @@ Przykład:
       // kod do wykonania
   }
 ```
+Opisana powyżej zmienna o nazwie `sprawdzana-zmienna` może mieć wartość `wartość-1` lub `wartość-2`.
+
 ![zdjecie](docs/photo2.png)
 
 ## Kim jestem?
