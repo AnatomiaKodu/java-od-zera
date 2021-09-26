@@ -44,15 +44,15 @@ Czego dokładnie się nauczysz?
 
 ## Instrukcja i założenia
 
+Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jednocześnie uczyć się zarówno Java'y jak i angielskiego. Dodatkową wartością tego podejścia jest to, że w sposób jednoznaczny kod odróżnia się od składni Java. 
+
+[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680)
+
 Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
 
-Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jednocześnie uczyć się zarówno Java jak i angielskiego. Dodatkową wartością tego podejścia jest to, że w sposób jednoznaczny kod odróżnia się od składni Java! 
-
-W komentarzach znajdziesz opis składni javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji.
+W komentarzach znajdziesz opis składni Javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji.
 
 Zmienne są zdefiniowane ze znakiem $ tak by było łatwiej odróżnić je od kodu.
-
-[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680) 
 
 Przykład:
 ```java
@@ -66,7 +66,6 @@ Przykład:
     default:
       // kod do wykonania
   }
-
 ```
 ![zdjecie](docs/photo2.png)
 
