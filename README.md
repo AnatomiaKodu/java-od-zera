@@ -79,6 +79,7 @@ Możesz mnie śledzić tutaj:
 [Instagram](https://www.instagram.com/anatomiakodu/)  
 [Strona www](https://anatomiakodu.pl/)  
 [Spotify](https://open.spotify.com/show/3aXS6JAvx91eApuUZ9O7XA)
+  
 ---
 
 ## Plany na przyszłość
