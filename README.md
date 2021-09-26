@@ -1,11 +1,12 @@
 # Nauka Java od podstaw!
-![logo](docs/java-logo.png)
 
 #### Chciałbyś zostać programistą?
 #### Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?
 #### Chcesz zacząć ale nie wiesz jak?
 
 ### Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
+
+![logo](docs/java-logo.png)
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć studiów. 
 
