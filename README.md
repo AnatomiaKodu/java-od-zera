@@ -1,34 +1,34 @@
 # Nauka Java od podstaw!
 
-** Chciałbyś zostać programistą? **
+**Chciałbyś zostać programistą?**
 
-** Chcesz zacząć ale nie wiesz od czego? **
+**Chcesz zacząć ale nie wiesz od czego?**
 
-** Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób? **
+**Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?**
 
 
 ### Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
 ![logo](docs/java-logo.png)
 
-Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć studiów. 
+Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
 
-Znajudziesz znajdziesz ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
+Znajdziesz tutaj ponad 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
 Czego się nauczysz?
-* komentarze
-* metoda Main, klasy i metody
+* komentarzy
+* metoda ***Main***, klasy i metody
 * rodzaje zmiennych w Java
-* typy wyliczeniowe, czyli enum
-* importowanie klas
+* typy wyliczeniowe, czyli ***enum***
+* importowanie ***klas***
 * operacje matematyczne
 * operacje na tekście
-* Warunki logiczne if-else oraz switch-case
-* Pętle for, for-each, while, do-while
+* Warunki logiczne ***if-else*** oraz ***switch-case***
+* Pętle ***for***, ***for-each***, ***while***, ***do-while***
 * tablice, listy i zbiory
 * mapy
 * wyjątki typu Runtime
-* obsługa wyjątku try-catch oraz try-catch-final
+* obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 
 ![zdjecie](docs/photo1.png)
 
@@ -67,6 +67,16 @@ Przykład:
 
 ```
 ![zdjecie](docs/photo2.png)
+
+##Kim jestem?
+
+Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność od kąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+ 
+Możesz mnie śledzić tutaj:
+[Facebook](https://www.facebook.com/AnatomiaKodu)
+[Youtube](https://www.youtube.com/c/AnatomiaKodu)
+[Instagram](https://www.instagram.com/anatomiakodu/)
+[Strona www](https://anatomiakodu.pl/)
 
 ##Dalsze plany
 
