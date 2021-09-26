@@ -35,9 +35,9 @@ Czego się nauczysz?
 * [zainstaluj Java](https://www.java.com/en/) - to język w którym będziesz programować
 * [zainstaluj GIT](https://git-scm.com/downloads) - to narzędzie dzięki któremu w łatwy sposób pobierzesz ten projekt 
 * [zainstaluj Intellij Idea](https://www.jetbrains.com/idea/download/#section=windows) - to edytor tekstu - podobny do Worda - tylko, że dla programistów ;) 
-* użyj komendy: `git clone https://github.com/AnatomiaKodu/wstep-do-java.git`
-* Otwórz projekt Intellij Idea
-* Możesz otworzyć Lekcję 0 !
+* otwórz konsolę i użyj komendy: `git clone https://github.com/AnatomiaKodu/wstep-do-java.git`
+* zaimportuj projekt w Intellij Idea
+* możesz otworzyć Lekcję 0 !
 
 ## Instrukcja
 
