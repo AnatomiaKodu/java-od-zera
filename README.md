@@ -1,8 +1,11 @@
 # Nauka Java od podstaw!
 
-#### Chciałbyś zostać programistą?
-#### Chcesz zacząć ale nie wiesz od czego?
-#### Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?
+** Chciałbyś zostać programistą? **
+
+** Chcesz zacząć ale nie wiesz od czego? **
+
+** Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób? **
+
 
 ### Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
@@ -30,7 +33,7 @@ Czego się nauczysz?
 ![zdjecie](docs/photo1.png)
 
 
-## Jak zacząć?
+## Jak przygotować swój komputer do lekcji?
 
 * [zainstaluj Java](https://www.java.com/en/) - to język w którym będziesz programować
 * [zainstaluj GIT](https://git-scm.com/downloads) - to narzędzie dzięki któremu w łatwy sposób pobierzesz ten projekt 
@@ -39,7 +42,7 @@ Czego się nauczysz?
 * zaimportuj projekt w Intellij Idea
 * możesz otworzyć Lekcję 0 !
 
-## Instrukcja
+## Instrukcja i założenia
 
 Każda lekcja znajduje się w osobnym pliku. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
 
@@ -47,7 +50,7 @@ Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jed
 
 W komentarzach znajdziesz opis składni javy oraz operacji które zostały napisane, natomiast w metodach znajdziesz poszczególne punkty lekcji.
 
-Zmienne są zdefiniowane ze znakiem $ tak by łatwiej było zrozumieć instencję.
+Zmienne są zdefiniowane ze znakiem $ tak by było łatwiej odróżnić je od kodu.
 
 Przykład:
 ```java
@@ -64,8 +67,6 @@ Przykład:
 
 ```
 ![zdjecie](docs/photo2.png)
-
----
 
 ##Dalsze plany
 
