@@ -70,7 +70,7 @@ Przykład:
 
 ## Kim jestem?
 
-Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność od kąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
 Możesz mnie śledzić tutaj:
 
@@ -78,7 +78,7 @@ Możesz mnie śledzić tutaj:
 [Youtube](https://www.youtube.com/c/AnatomiaKodu)  
 [Instagram](https://www.instagram.com/anatomiakodu/)  
 [Strona www](https://anatomiakodu.pl/)  
-
+[Spotify](https://open.spotify.com/show/3aXS6JAvx91eApuUZ9O7XA)
 ---
 
 ## Plany na przyszłość
