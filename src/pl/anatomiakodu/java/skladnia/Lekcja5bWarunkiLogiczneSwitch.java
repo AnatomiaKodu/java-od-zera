@@ -6,10 +6,10 @@ public class Lekcja5bWarunkiLogiczneSwitch {
      * BUDOWA
      *
      * switch($sprawdzana-zmienna) {
-     *   case x:
+     *   case wartość-1:
      *     // kod do wykonania
      *     break;
-     *   case y:
+     *   case wartość-2:
      *     // kod do wykonania
      *     break;
      *   default:
