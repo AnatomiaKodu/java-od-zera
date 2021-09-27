@@ -17,12 +17,12 @@ Znajdziesz tutaj prawie 20 lekcji, które omawiają podstawowe zagadenia w najpr
 
 Czego dokładnie się nauczysz?
 * stosowania komentarzy
-* metoda ***main***, klasy i metody
-* rodzaje zmiennych w Java oraz zakres ich działania
+* metoda ***main***, ***klasy*** i ***metody***
+* rodzaje ***zmiennych*** w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
 * importowanie ***klas***
 * operacje matematyczne
-* operacje na tekście
+* operacje na tekście - ***String***
 * Warunki logiczne ***if-else*** oraz ***switch-case***
 * Pętle ***for***, ***for-each***, ***while***, ***do-while***
 * tablice, listy i zbiory
