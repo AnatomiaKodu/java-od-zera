@@ -67,7 +67,7 @@ Przykład:
       // kod do wykonania
   }
 ```
-Opisana powyżej zmienna o nazwie `sprawdzana-zmienna` może mieć wartość `wartość-1` lub `wartość-2`.
+Opisana powyżej zmienna o nazwie `sprawdzana-zmienna` może mieć wartość: `wartość-1` lub `wartość-2`.
 
 ![zdjecie](docs/photo2.png)
 
