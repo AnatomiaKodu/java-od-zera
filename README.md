@@ -78,32 +78,3 @@ Możesz mnie śledzić tutaj:
 [Instagram](https://www.instagram.com/anatomiakodu/)  
 [Strona www](https://anatomiakodu.pl/)  
 [Spotify](https://open.spotify.com/show/3aXS6JAvx91eApuUZ9O7XA)
-  
----
-
-## Plany na przyszłość
-
-Zagadnienia które można omówić w kolejnej serii:
-* daty
-* Object - equals i hashcode
-* OOP - dziedziczenie, konstruktor, enkapsulacja
-* modifikatory - static, final , abstract
-* metody nadpisywanie i przeciążanie, rekurencja?
-* scope
-* interfejsy
-* generyczność
-* wyjątki c.d.
-* kolekcje c.d
-* operacje na plikach
-* gradle? testy?
-* user input?
-
----
-
-Zagadnienia do jeszcze innej serii:
-* SOLID
-
----
-
-Zagadnienia do jeszcze, jeszcze innej serii:
-* Wzorce projektowe
