@@ -1,8 +1,9 @@
 # Nauka Java od podstaw!
 
 ![logo](docs/java-repo-opis.png)
-
+<br/>
 ### Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
+<br/>
 
 ![logo](docs/java-logo.png)
 
