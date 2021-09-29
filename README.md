@@ -1,6 +1,6 @@
 # Nauka Java od podstaw!
-
-<h3 align="center" font-family="Copperplate, Impact, Luminari">Chciałbyś zostać programistą?</h3>
+<p font-family="Impact">Aaaa</p>
+<h3 align="center" font-family="Impact"><strong>Chciałbyś zostać programistą?</strong></h3>
 <h3 align="center">Chcesz zacząć ale nie wiesz od czego?</h3>
 
 <h3 align="center">Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?</h3>
