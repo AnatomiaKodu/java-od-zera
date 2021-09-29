@@ -1,10 +1,6 @@
 # Nauka Java od podstaw!
-<p font-family="Impact">
-<font size="16" align="center" font-family="Impact"><strong>Chciałbyś zostać programistą?</strong></font>
-</p>
-<h3 align="center"><b>Chcesz zacząć ale nie wiesz od czego?</b></h3>
 
-<h3 align="center">Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?</h3>
+![logo](docs/java-repo-opis.png)
 
 ### Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
