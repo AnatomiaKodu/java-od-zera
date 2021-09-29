@@ -1,7 +1,8 @@
 # Nauka Java od podstaw!
 <p align="center">
-<h3>Chciałbyś zostać programistą?</h3>
-
+    <h3>Chciałbyś zostać programistą?</h3>
+</p>
+<p align="center">
 <h3>Chcesz zacząć ale nie wiesz od czego?</h3>
 
 <h4>Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?</h4>
