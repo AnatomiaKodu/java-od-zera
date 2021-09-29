@@ -1,11 +1,11 @@
 # Nauka Java od podstaw!
-
+<p align="center">
 **Chciałbyś zostać programistą?**
 
 **Chcesz zacząć ale nie wiesz od czego?**
 
 **Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?**
-
+</p>
 
 ### Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
 
