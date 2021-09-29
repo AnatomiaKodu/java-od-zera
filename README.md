@@ -1,6 +1,6 @@
 # Nauka Java od podstaw!
 
-<h3 align="center">Chciałbyś zostać programistą?</h3>
+<h3 align="center" font-family="Copperplate">Chciałbyś zostać programistą?</h3>
 <h3 align="center">Chcesz zacząć ale nie wiesz od czego?</h3>
 
 <h3 align="center">Nigdy nie miałeś szansy by ktoś Ci to wytłumaczył w zrozumiały sposób?</h3>
