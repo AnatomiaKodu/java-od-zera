@@ -1,6 +1,7 @@
 # Nauka Java od podstaw!
 
 ![logo](docs/java-repo-opis.png)
+Doskonale! 
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
 
