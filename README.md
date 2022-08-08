@@ -45,6 +45,8 @@ Dołącz do naszej grupy wsparcia na [Facebook](https://www.facebook.com/groups/
 ### LEKCJE:
 1. Pierwsza aplikacja w Java. Metoda main
 
+..następne wkrótce ;)
+
 ![zdjecie](docs/photo2.png)
 
 ## Kim jestem?
