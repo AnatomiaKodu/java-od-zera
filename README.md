@@ -16,27 +16,21 @@ Czego dokładnie się nauczysz?
 * metoda ***main***, ***klasy*** i ***metody***
 * rodzaje ***zmiennych*** w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
-* importowanie ***klas***
+* typy generyczne
+* programowanie obiektowe
+* wątki
+* interfejsy i klasy abstrakcyjne
+* konstruktory
 * operacje matematyczne
 * operacje na tekście - ***String***
 * Warunki logiczne ***if-else*** oraz ***switch-case***
 * Pętle ***for***, ***for-each***, ***while***, ***do-while***
 * tablice, listy i zbiory
 * mapy
-* wyjątki typu ***Runtime***
+* wyjątki zwykłe i typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 
 ![zdjecie](docs/photo1.png)
-
-
-## Jak przygotować swój komputer do lekcji?
-
-* [zainstaluj Java](https://www.java.com/en/) - to język w którym będziesz programować
-* [zainstaluj GIT](https://git-scm.com/downloads) - to narzędzie dzięki któremu w łatwy sposób pobierzesz ten projekt 
-* [zainstaluj Intellij Idea](https://www.jetbrains.com/idea/download/#section=windows) - to edytor tekstu - podobny do Worda - tylko, że dla programistów ;) 
-* otwórz konsolę i użyj komendy: `git clone https://github.com/AnatomiaKodu/wstep-do-java.git`
-* zaimportuj projekt w Intellij Idea
-* możesz otworzyć Lekcję 1 !
 
 ## Instrukcja i założenia
 
@@ -48,7 +42,6 @@ Materiały które tutaj będę umieszczał są nieodłączną częścią mojej s
 Każda lekcja znajduje się w osobnym ***pakiecie***.
 
 ## CONTENT
-
 ### Zanim zaczniesz:
 - [Jaki wybrać język programowania?](https://www.youtube.com/watch?v=NvMyhQPUrbo&t=2s&ab_channel=AnatomiaKodu)
 - [Czym jest Java i jak jest zbudowana?](https://www.youtube.com/watch?v=bfB4H61K2Lk&t=2s&ab_channel=AnatomiaKodu)
