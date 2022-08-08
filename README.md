@@ -9,7 +9,7 @@
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
 
-Znajdziesz tutaj prawie 20 lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
+Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
 Czego dokładnie się nauczysz?
 * stosowania komentarzy
@@ -36,40 +36,31 @@ Czego dokładnie się nauczysz?
 * [zainstaluj Intellij Idea](https://www.jetbrains.com/idea/download/#section=windows) - to edytor tekstu - podobny do Worda - tylko, że dla programistów ;) 
 * otwórz konsolę i użyj komendy: `git clone https://github.com/AnatomiaKodu/wstep-do-java.git`
 * zaimportuj projekt w Intellij Idea
-* możesz otworzyć Lekcję 0 !
+* możesz otworzyć Lekcję 1 !
 
 ## Instrukcja i założenia
 
-Cały kod jest napisany w całości po polsku tak by nowa osoba nie musiała jednocześnie uczyć się zarówno Java'y jak i angielskiego. Dodatkową wartością tego podejścia jest to, że w sposób jednoznaczny kod odróżnia się od składni Java. 
+Materiały które tutaj będę umieszczał są nieodłączną częścią mojej serii filmów poświęconej Java na [YouTube](https://www.youtube.com/c/AnatomiaKodu), dlatego koniecznie obejrzyj nagranie najpierw zanim zerkniesz do kodu z danej lekcji.
 
-[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/580778376232680)
 
-Każda lekcja znajduje się w osobnym ***pliku*** w ***klasie***. Lekcje które są podobnie tematyczne zostały podzielone na podlekcje np. 2a, 2b i 2c.
-W ***komentarzach*** znajdziesz opis składni Javy oraz wytłumaczenie dla kodu który zostały napisany. 
-W ***metodach*** znajdziesz poszczególne punkty lekcji.
+[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/jak.zostac.programista.2)
 
-Zmienne są zdefiniowane ze znakiem ***$*** tak by było łatwiej odróżnić je od kodu.
+Każda lekcja znajduje się w osobnym ***pakiecie***.
 
-Przykład:
-```java
-  switch($sprawdzana-zmienna) {
-    case wartość-1:
-      // kod do wykonania
-      break;
-    case wartość-2:
-      // kod do wykonania
-      break;
-    default:
-      // kod do wykonania
-  }
-```
-Opisana powyżej zmienna o nazwie `sprawdzana-zmienna` może mieć wartość: `wartość-1` lub `wartość-2`.
+## CONTENT
+
+### Zanim zaczniesz:
+- [Jaki wybrać język programowania?](https://www.youtube.com/watch?v=NvMyhQPUrbo&t=2s&ab_channel=AnatomiaKodu)
+- [Czym jest Java i jak jest zbudowana?](https://www.youtube.com/watch?v=bfB4H61K2Lk&t=2s&ab_channel=AnatomiaKodu)
+- [Czym jest IDE? Jak używać IntelliJ IDEA?](https://www.youtube.com/watch?v=cqtN7eLD5yU&t=234s&ab_channel=AnatomiaKodu)
+### LEKCJE:
+1. Pierwsza aplikacja w Java. Metoda main
 
 ![zdjecie](docs/photo2.png)
 
 ## Kim jestem?
 
-Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 6 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 7 lat. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
  
 Możesz mnie śledzić tutaj:
 
