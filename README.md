@@ -2,7 +2,9 @@
 
 ![logo](docs/java-repo-opis.png)
 <br/>
-### Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie! 
+<p style="text-align:center;font-size:32px">
+ Doskonale! Zatem ten projekt jest stworzony specjalnie dla Ciebie!
+</p>
 <br/>
 
 ![logo](docs/java-logo.png)
@@ -11,7 +13,7 @@ Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać.
 
 Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
-Czego dokładnie się nauczysz?
+##Czego dokładnie się nauczysz?
 * stosowania komentarzy
 * metoda ***main***, ***klasy*** i ***metody***
 * rodzaje ***zmiennych*** w Java oraz zakres ich działania
@@ -33,13 +35,11 @@ Czego dokładnie się nauczysz?
 ![zdjecie](docs/photo1.png)
 
 ## Instrukcja i założenia
-
+### YouTube
 Materiały które tutaj będę umieszczał są nieodłączną częścią mojej serii filmów poświęconej Java na [YouTube](https://www.youtube.com/c/AnatomiaKodu), dlatego koniecznie obejrzyj nagranie najpierw zanim zerkniesz do kodu z danej lekcji.
 
-
-[Dołącz do naszej grupy wsparcia na Facebook. Tam możesz zadawać pytania i wymieniać się wiedzą.](https://www.facebook.com/groups/jak.zostac.programista.2)
-
-Każda lekcja znajduje się w osobnym ***pakiecie***.
+### Facebook
+Dołącz do naszej grupy wsparcia na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
 
 ## CONTENT
 ### Zanim zaczniesz:
@@ -62,3 +62,7 @@ Możesz mnie śledzić tutaj:
 [Instagram](https://www.instagram.com/anatomiakodu/)  
 [Strona www](https://anatomiakodu.pl/)  
 [Spotify](https://open.spotify.com/show/3aXS6JAvx91eApuUZ9O7XA)
+
+<p style="text-align:center;">
+    <img src="docs/logo.png" width="300">
+</p>
