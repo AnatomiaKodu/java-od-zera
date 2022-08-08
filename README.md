@@ -1,4 +1,4 @@
-# Nauka Java od podstaw!
+# Nauka Java od ZERA!
 
 ![logo](docs/java-repo-opis.png)
 Doskonale! 
