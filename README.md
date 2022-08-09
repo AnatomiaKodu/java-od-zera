@@ -27,6 +27,8 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * mapy
 * wyjątki zwykłe i typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
+* podstawowej pracy z GIT'em
+* debuggowanie
 
 ![zdjecie](docs/photo1.png)
 
@@ -36,6 +38,9 @@ Materiały które tutaj będę umieszczał są nieodłączną częścią mojej s
 
 ### Grupa Facebook
 Dołącz do naszej grupy wsparcia na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
+
+### Discord
+in progress...
 
 ## CONTENT
 ### Zanim zaczniesz:
