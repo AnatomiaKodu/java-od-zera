@@ -48,7 +48,7 @@ in progress...
 - [Czym jest Java i jak jest zbudowana?](https://www.youtube.com/watch?v=bfB4H61K2Lk&t=2s&ab_channel=AnatomiaKodu)
 - [Czym jest IDE? Jak używać IntelliJ IDEA?](https://www.youtube.com/watch?v=cqtN7eLD5yU&t=234s&ab_channel=AnatomiaKodu)
 ### LEKCJE:
-1. Pierwsza aplikacja w Java. Metoda main
+1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E)
 
 ..następne wkrótce ;)
 
