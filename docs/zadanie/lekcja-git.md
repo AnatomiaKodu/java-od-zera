@@ -1,5 +1,6 @@
 <p align="center">
     <img src="../images/homework.png" width="800">
+    <br/><br/>
 </p>
 
 1. Stwórz własne repozytorium o wybranej tematyce np. Atlas Zwierząt
@@ -10,3 +11,8 @@
 6. Przejrzyj logi gita
 7. Dodaj kolejny plik do folderu, zaindexuj go do Stage Area
 8. Zresetuj zmiany
+
+<p align="center">
+    <br/><br/><br/>
+    <img src="../logo.png" width="300">
+</p>

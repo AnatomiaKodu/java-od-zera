@@ -7,7 +7,7 @@ Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać.
 
 Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
-![logo](docs/java-logo.png)
+![logo](docs/images/stack.png)
 
 ## Czego dokładnie się nauczysz?
 * stosowania komentarzy
