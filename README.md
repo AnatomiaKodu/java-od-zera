@@ -47,8 +47,13 @@ in progress...
 - [Jaki wybrać język programowania?](https://www.youtube.com/watch?v=NvMyhQPUrbo&t=2s&ab_channel=AnatomiaKodu)
 - [Czym jest Java i jak jest zbudowana?](https://www.youtube.com/watch?v=bfB4H61K2Lk&t=2s&ab_channel=AnatomiaKodu)
 - [Czym jest IDE? Jak używać IntelliJ IDEA?](https://www.youtube.com/watch?v=cqtN7eLD5yU&t=234s&ab_channel=AnatomiaKodu)
+
+[ZADANIE DOMOWE](docs/zadanie/lekcja-ide.md)
+
 ### LEKCJE:
 1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E)
+
+[ZADANIE DOMOWE](docs/zadanie/lekcja1.md)
 
 ..następne wkrótce ;)
 
