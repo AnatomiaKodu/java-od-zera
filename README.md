@@ -42,7 +42,7 @@ Dołącz do naszej grupy wsparcia na [Facebook](https://www.facebook.com/groups/
 ### Discord
 in progress...
 
-## CONTENT
+## LEKCJE
 ### Zanim zaczniesz:
 - [Jaki wybrać język programowania?](https://www.youtube.com/watch?v=NvMyhQPUrbo&t=2s&ab_channel=AnatomiaKodu)
 - [Czym jest Java i jak jest zbudowana?](https://www.youtube.com/watch?v=bfB4H61K2Lk&t=2s&ab_channel=AnatomiaKodu)
@@ -50,7 +50,13 @@ in progress...
 
 [ZADANIE DOMOWE](docs/zadanie/lekcja-ide.md)
 
-### LEKCJE:
+### GIT:
+1. [GIT podstawy - Repozytorium / Commit / Index](https://youtu.be/M5dx1Lc7I-I)
+
+[ZADANIE DOMOWE](docs/zadanie/lekcja-git.md)
+
+
+### JAVA:
 1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E)
 
 [ZADANIE DOMOWE](docs/zadanie/lekcja1.md)
