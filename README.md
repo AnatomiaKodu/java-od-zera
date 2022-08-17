@@ -63,6 +63,9 @@ in progress...
 
 ..następne wkrótce ;)
 
+### Ściągi do użytku - Community work :)
+1. [Wrapper do zapytań HTTP w Java. Przykład użycia](src/sciagi/httpRequest)
+
 ![zdjecie](docs/photo2.png)
 
 ## Kim jestem?
