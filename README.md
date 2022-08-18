@@ -68,9 +68,9 @@ in progress...
 ## Kim jestem?
 <table border="0">
   <tr>
-    <td width="50%" valign="top"><br/><br/>
-Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 7 lat. Byłem mentorem w jednym z największych bootcampów w Polsce. Prowadzę szkolenia związane z tworzeniem oprogramowania. <br/>
-Na codzień poza pracą zawodową pomagam innym i tworze materiały edukacyjne. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
+    <td width="50%" valign="top">
+&emsp;&emsp;Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 7 lat. Byłem mentorem w jednym z największych bootcampów w Polsce. Prowadzę szkolenia związane z tworzeniem oprogramowania. <br/>
+&emsp;&emsp;Na codzień poza pracą zawodową pomagam innym i tworze materiały edukacyjne. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
 <br/><br/><br/>
 Możesz mnie śledzić tutaj:
 
