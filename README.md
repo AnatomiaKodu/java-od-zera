@@ -66,9 +66,9 @@ in progress...
 ![zdjecie](docs/photo2.png)
 
 ## Kim jestem?
-
-<div style="display: table; width: 100%;">
-  <div style="float: left;width: 50%;">
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
 Nazywam się Michał Ćwiękała i jestem zawodowym programistą od ponad 7 lat. Byłem mentorem w jednym z największych bootcampów w Polsce. Prowadzę szkolenia związane z tworzeniem oprogramowania. Na codzień poza pracą zawodową pomagam innym i tworze materiały edukacyjne. Skończyłem Informatykę na Politechnice Śląskiej, a z komputerem mam styczność odkąd tylko pamiętam. Moją misją jest pomagać innym w rozwoju swojej kariery w branży IT.
 
 Możesz mnie śledzić tutaj:
@@ -78,11 +78,10 @@ Możesz mnie śledzić tutaj:
 [Instagram](https://www.instagram.com/anatomiakodu/)  
 [Strona www](https://anatomiakodu.pl/)  
 [Spotify](https://open.spotify.com/show/3aXS6JAvx91eApuUZ9O7XA)
-    </div>
-  <div style="width: 50%;float: left;">
-<img style="max-width: 400px; padding-top: 0; margin-top: 0" src="./docs/images/MichalCwiekala.png"/>
-</div>
-</div>
+</td>
+    <td><img src="./docs/images/MichalCwiekala.png"/></td>
+  </tr>
+</table>
 
 <div style="padding: 30px; width: 800px"></div>
 <p align="center">
