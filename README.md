@@ -1,6 +1,8 @@
-# Nauka Java od ZERA!
+<p align="center">
+    <img src="docs/images/logo-jo0.png" width="800">
+</p>
 
-![logo](docs/java-repo-opis.png)
+![opis](docs/images/java-repo-opis.png)
 Doskonale! 
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
@@ -30,7 +32,7 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * podstawowej pracy z GIT'em
 * debuggowanie
 
-![zdjecie](docs/photo1.png)
+![zdjecie](docs/images/photo1.png)
 
 ## Instrukcja i założenia
 ### YouTube
@@ -63,7 +65,7 @@ in progress...
 
 ..następne wkrótce ;)
 
-![zdjecie](docs/photo2.png)
+![zdjecie](docs/images/photo2.png)
 
 ## Kim jestem?
 <table border="0">
@@ -86,5 +88,5 @@ Możesz mnie śledzić tutaj:
 
 <div style="padding: 30px; width: 800px"></div>
 <p align="center">
-    <img src="docs/logo.png" width="300">
+    <img src="docs/images/logo-ak.png" width="300">
 </p>
