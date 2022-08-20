@@ -9,7 +9,7 @@ Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać.
 
 Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
 
-![logo](docs/images/stack.png)
+![logo](docs/images/stack4.png)
 
 ## Czego dokładnie się nauczysz?
 * stosowania komentarzy
@@ -30,6 +30,7 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * wyjątki zwykłe i typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 * podstawowej pracy z GIT'em
+* debuggowanie
 * debuggowanie
 
 ![zdjecie](docs/images/photo1.png)
