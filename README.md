@@ -40,10 +40,10 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 Materiały które tutaj będę umieszczał są nieodłączną częścią mojej serii filmów poświęconej Java na [YouTube](https://www.youtube.com/c/AnatomiaKodu), dlatego koniecznie obejrzyj nagranie najpierw zanim zerkniesz do kodu z danej lekcji.
 
 ### Grupa Facebook
-Dołącz do naszej grupy wsparcia na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
+Dołącz do naszej zamkniętej grupy na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
 
 ### Discord
-in progress...
+Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poruszamy zagadnienia związane z Java, zadajemy pytania i pracujemy razem. Używaj go również do Pair Programming i pracy w małej grupie.
 
 ## LEKCJE
 ### Zanim zaczniesz:
