@@ -39,7 +39,7 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 ### [YouTube](https://www.youtube.com/c/AnatomiaKodu)
 Materiały które tutaj będę umieszczał są nieodłączną częścią mojej serii filmów poświęconej Java na [YouTube](https://www.youtube.com/c/AnatomiaKodu), dlatego koniecznie obejrzyj nagranie najpierw zanim zerkniesz do kodu z danej lekcji.
 
-### [Grupa Facebook]((https://www.facebook.com/groups/jak.zostac.programista.2))
+### [Grupa Facebook](https://www.facebook.com/groups/jak.zostac.programista.2)
 Dołącz do naszej zamkniętej grupy na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
 
 ### [Discord](https://discord.gg/5BRYXqKr)
