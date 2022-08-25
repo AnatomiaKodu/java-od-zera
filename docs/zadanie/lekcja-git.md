@@ -14,5 +14,5 @@
 
 <p align="center">
     <br/><br/><br/>
-    <img src="../logo.png" width="300">
+    <img src="../images/logo-ak.png" width="300">
 </p>

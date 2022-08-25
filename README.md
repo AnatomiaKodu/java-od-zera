@@ -58,6 +58,9 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 [ZADANIE DOMOWE](docs/zadanie/lekcja-git.md)
 
+2. [Github, praca w zespole - Branch / Merge / Local / Remote](https://youtu.be/5q92gM-iNFg)
+
+[ZADANIE DOMOWE](docs/zadanie/lekcja-github.md)
 
 ### JAVA:
 1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E)
