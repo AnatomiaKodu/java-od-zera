@@ -54,18 +54,15 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 [ZADANIE DOMOWE](docs/zadanie/lekcja-ide.md)
 
 ### GIT:
-1. [GIT podstawy - Repozytorium / Commit / Index](https://youtu.be/M5dx1Lc7I-I)
+1. [GIT podstawy - Repozytorium / Commit / Index](https://youtu.be/M5dx1Lc7I-I) // [ZADANIE DOMOWE](docs/zadanie/lekcja-git.md)
 
-[ZADANIE DOMOWE](docs/zadanie/lekcja-git.md)
-
-2. [Github, praca w zespole - Branch / Merge / Local / Remote](https://youtu.be/5q92gM-iNFg)
-
-[ZADANIE DOMOWE](docs/zadanie/lekcja-github.md)
+2. [Github, praca w zespole - Branch / Merge / Local / Remote](https://youtu.be/5q92gM-iNFg) // [ZADANIE DOMOWE](docs/zadanie/lekcja-github.md)
 
 ### JAVA:
-1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E)
+1. [Pierwsza aplikacja w Java. Metoda main](https://youtu.be/5urFjZd2_9E) // [ZADANIE DOMOWE](docs/zadanie/lekcja1.md)
 
-[ZADANIE DOMOWE](docs/zadanie/lekcja1.md)
+2. [Zmienne. Typy Prymitywne i Obiektowe w Java. Null](https://youtu.be/gBubcHlzKyg) // [ZADANIE DOMOWE](docs/zadanie/lekcja2.md)
+
 
 ..następne wkrótce ;)
 
