@@ -9,6 +9,7 @@
 4. Spróbuj stworzyć w Javie przedstawione warunkiu logiczne dla zmiennej a i b:
 <img src="../images/bramki.png" width="600">
 (https://www.microcontrollertips.com/what-are-basic-logic-gates-faq/)
+
 5. Stwórz metodę która będzie porównywać zmienną typu int do liczby 10 i jako odpowiedź zwróci tekst:
     - Jest większe niż 10.
     - Jest mniejsze od 10.
