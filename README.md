@@ -63,8 +63,9 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 2. [Zmienne. Typy Prymitywne i Obiektowe w Java. Null](https://youtu.be/gBubcHlzKyg) // [ZADANIE DOMOWE](docs/zadanie/lekcja2.md)
 
+3. [Operatory w Java](https://youtu.be/FNHousyhnaM) // [ZADANIE DOMOWE](docs/zadanie/lekcja3.md)
 
-..następne wkrótce ;)
+...następne wkrótce ;)
 
 ![zdjecie](docs/images/photo2.png)
 
