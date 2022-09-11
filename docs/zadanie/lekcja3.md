@@ -11,10 +11,9 @@
 (https://www.microcontrollertips.com/what-are-basic-logic-gates-faq/)
  
  
-5. Stwórz metodę która będzie porównywać zmienną typu int do liczby 10 i jako odpowiedź zwróci tekst:
-    - Jest większe niż 10.
-    - Jest mniejsze od 10.
-    - Jest równe 10.
+5. Stwórz metodę która będzie porównywać zmienną typu int do liczby 10 i jako odpowiedź zwróci jeden z poniższych tekstów:
+    - x is greater than 10 - true
+    - x is greater than 10 - false
 <p align="center">
     <br/><br/><br/>
     <img src="../images/logo-ak.png" width="300">
