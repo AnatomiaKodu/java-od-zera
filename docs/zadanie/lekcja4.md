@@ -9,7 +9,7 @@
 
 2. Stwórz metodę która będzie generowała liczbę od -3 do 1.
  
-3. Wejdź na stronę z dokumentacją Java i użyj kilku metod klasy Math które nie zostały omówione w tym materiale.
+3. Wejdź na stronę z dokumentacją Java i użyj kilku metod klasy `Math` które nie zostały omówione w tym materiale.
 <p align="center">
     <br/><br/><br/>
     <img src="../images/logo-ak.png" width="300">
