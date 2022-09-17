@@ -18,7 +18,6 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * typy wyliczeniowe, czyli ***enum***
 * typy generyczne
 * programowanie obiektowe
-* wątki
 * interfejsy i klasy abstrakcyjne
 * konstruktory
 * operacje matematyczne
@@ -31,7 +30,7 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 * podstawowej pracy z GIT'em
 * debuggowanie
-* debuggowanie
+* używania IDE i skrótów klawiszowych
 
 ![zdjecie](docs/images/photo1.png)
 
