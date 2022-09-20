@@ -65,7 +65,8 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 3. [Operatory w Java](https://youtu.be/FNHousyhnaM) // [ZADANIE DOMOWE](docs/zadanie/lekcja3.md)
 
 4. [Zaawansowana Matematyka w Java. Klasa Math](https://youtu.be/NTjzzFlAXvY) // [ZADANIE DOMOWE](docs/zadanie/lekcja4.md)
- 
+
+5. [Tablice w Java. Klasa Arrays](https://youtu.be/x1tNx84OTtM) // [ZADANIE DOMOWE](docs/zadanie/lekcja4.md)
  
 ...następne wkrótce ;)
 
