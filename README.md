@@ -12,12 +12,14 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 ![logo](docs/images/stack4.png)
 
 ## Czego dokładnie się nauczysz?
-* stosowania komentarzy
+* korzystania z dokumentacji Java
+* używania IDE i skrótów klawiszowych
+* podstawowej pracy z GIT'em
+* podstaw Programowania Obiektowego - OOP
+* dobrych praktyk pisania kodu
 * metoda ***main***, ***klasy*** i ***metody***
 * rodzaje ***zmiennych*** w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
-* typy generyczne
-* programowanie obiektowe
 * interfejsy i klasy abstrakcyjne
 * konstruktory
 * operacje matematyczne
@@ -28,9 +30,8 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * mapy
 * wyjątki zwykłe i typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
-* podstawowej pracy z GIT'em
 * debuggowanie
-* używania IDE i skrótów klawiszowych
+* stosowania komentarzy
 
 ![zdjecie](docs/images/photo1.png)
 
@@ -67,6 +68,8 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 4. [Zaawansowana Matematyka w Java. Klasa Math](https://youtu.be/NTjzzFlAXvY) // [ZADANIE DOMOWE](docs/zadanie/lekcja4.md)
 
 5. [Tablice w Java. Klasa Arrays](https://youtu.be/x1tNx84OTtM) // [ZADANIE DOMOWE](docs/zadanie/lekcja5.md)
+
+6. [Zaawansowane operacje na tekście w Java. String i StringBuilder](https://youtu.be/w-5P480lnGI) // [ZADANIE DOMOWE](docs/zadanie/lekcja6.md)
  
 ...następne wkrótce ;)
 
