@@ -39,7 +39,7 @@ class LoopLesson {
         System.out.println("");
         System.out.println("");
         System.out.println("for: continue i break");
-        System.out.println("Koljeka klientów");
+        System.out.println("Kolejka klientów");
         for (int customerNumber = 0; customerNumber <= 20; customerNumber++) {
             if (customerNumber == 7 || customerNumber == 13) {
                 System.out.println("Pomiń klienta nr: " + customerNumber);

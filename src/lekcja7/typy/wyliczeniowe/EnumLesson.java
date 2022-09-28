@@ -23,7 +23,7 @@ class EnumLesson {
      */
     public static void main(String[] args) {
         createEnum();
-        enumAsvariable();
+        enumAsVariable();
         compareEnum();
         usefulMethods();
         enumFromNumber();
@@ -66,7 +66,7 @@ class EnumLesson {
         System.out.println("=====================");
     }
 
-    private static void enumAsvariable() {
+    private static void enumAsVariable() {
         System.out.println("Enum jako zmienna:");
         Weather todayWeather = Weather.CLOUDY;
         System.out.println(todayWeather);
