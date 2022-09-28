@@ -70,7 +70,10 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 5. [Tablice w Java. Klasa Arrays](https://youtu.be/x1tNx84OTtM) // [ZADANIE DOMOWE](docs/zadanie/lekcja5.md)
 
 6. [Zaawansowane operacje na tekście w Java. String i StringBuilder](https://youtu.be/w-5P480lnGI) // [ZADANIE DOMOWE](docs/zadanie/lekcja6.md)
- 
+
+7[Typy wyliczeniowe w Java. Enum](https://youtu.be/CrZ_5F26E-E) // [ZADANIE DOMOWE](docs/zadanie/lekcja7.md)
+
+
 ...następne wkrótce ;)
 
 ![zdjecie](docs/images/photo2.png)
