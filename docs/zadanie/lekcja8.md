@@ -3,10 +3,10 @@
     <br/><br/>
 </p>
 
-1. Stwórz fabrykę samochodów która wyprintuje samochód który wybrałeś. Parametry kolor, marka, rodzaj nadwozia. Stwórz metodę z 3 parametrami: `color, brand, type`. Przykłady dla parametrów:
-   - red, fiat, sedan program wyświetli w konsoli: "Wybarno: Czerwony Fiat Sedan"
-   - black, Mercedes, kombi program wyświetli w konsoli: "Wybarno: Czarny Mercedes Kombi"
-   - blue, Toyota, hatchback program wyświetli w konsoli: "Wybarno: Niebieską Toyotę Hatchback"
+1. Stwórz fabrykę samochodów która wyprintuje samochód który wybrałeś. Stwórz metodę z 3 parametrami: `color, brand, type`. Przykłady:
+   - red, fiat, sedan -> program wyświetli w konsoli: "Wybarno: Czerwony Fiat Sedan"
+   - black, Mercedes, kombi -> program wyświetli w konsoli: "Wybarno: Czarny Mercedes Kombi"
+   - blue, Toyota, hatchback -> program wyświetli w konsoli: "Wybarno: Niebieską Toyotę Hatchback"
 
    Jeśli nie wybrano typu nadwozia domyślnym typem będzie sedan, natomiast domyślnym kolorem powinien być srebrny. Użyj konstrukcji zagnieżdżonych `if-else`.
 
