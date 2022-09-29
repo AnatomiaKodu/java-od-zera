@@ -69,8 +69,8 @@ class ConditionsLesson {
         orderDiner(expensiveDinner);
         int dinner = 2;
         orderDiner(dinner);
-        int cheapDiner = 3;
-        orderDiner(cheapDiner);
+        int cheapDinner = 3;
+        orderDiner(cheapDinner);
     }
 
     private static void orderDiner(int order) {
@@ -161,7 +161,7 @@ class ConditionsLesson {
     }
 
     private static void ifElseExplained() {
-        System.out.println("Czym jest if?");
+        System.out.println("Czym jest if-else?");
 
         int age = 1;
         buyDrink(12);
