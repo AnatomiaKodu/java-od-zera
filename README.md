@@ -73,6 +73,7 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 7. [Typy wyliczeniowe w Java. Enum](https://youtu.be/CrZ_5F26E-E) // [ZADANIE DOMOWE](docs/zadanie/lekcja7.md)
 
+8. [Typy wyliczeniowe w Java. Enum](https://youtu.be/KJuwSUXM18E) // [ZADANIE DOMOWE](docs/zadanie/lekcja8.md)
 
 ...następne wkrótce ;)
 
