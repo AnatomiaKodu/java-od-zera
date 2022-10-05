@@ -75,6 +75,8 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 8. [Warunki logiczne w Java - if, else oraz switch](https://youtu.be/KJuwSUXM18E) // [ZADANIE DOMOWE](docs/zadanie/lekcja8.md)
 
+9. [Pętle w Java - for, while i do-while](https://youtu.be/AMqHmcsClNY) // [ZADANIE DOMOWE](docs/zadanie/lekcja9.md)
+
 ...następne wkrótce ;)
 
 ![zdjecie](docs/images/photo2.png)
