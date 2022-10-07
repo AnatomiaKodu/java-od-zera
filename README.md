@@ -77,6 +77,8 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 9. [Pętle w Java - for, while i do-while](https://youtu.be/AMqHmcsClNY) // [ZADANIE DOMOWE](docs/zadanie/lekcja9.md)
 
+10. [Stałe w Java. Słowo kluczowe final. Clean Code](https://youtu.be/oQqHf46EI88) // [ZADANIE DOMOWE](docs/zadanie/lekcja10.md) 
+
 ...następne wkrótce ;)
 
 ![zdjecie](docs/images/photo2.png)
