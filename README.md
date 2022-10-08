@@ -79,6 +79,8 @@ Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poru
 
 10. [Stałe w Java. Słowo kluczowe final. Clean Code](https://youtu.be/oQqHf46EI88) // [ZADANIE DOMOWE](docs/zadanie/lekcja10.md) 
 
+11. [Pętle zagnieżdżone i tablice 2D w Java](https://youtu.be/PsPI57kgzgo) // [ZADANIE DOMOWE](docs/zadanie/lekcja11.md)
+
 ...następne wkrótce ;)
 
 ![zdjecie](docs/images/photo2.png)
