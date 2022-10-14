@@ -7,7 +7,7 @@ Doskonale!
 
 Możesz zacząć od zaraz! Aby zacząć ten kurs nie musisz się przygotowywać. Nie musisz przeczytać żadnej książki, ani skończyć żadnych studiów. Nie wydasz również ani złotówki na drogie oprogramowanie czy licencje! 
 
-Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!    
+Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najprostszy możliwy sposób!
 
 ![logo](docs/images/stack4.png)
 
@@ -35,6 +35,9 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 
 ![zdjecie](docs/images/photo1.png)
 
+## Jak się zapisać?
+Chcesz dołączyć do programu "Java od Zera"? Zajrzyj na moją dedykowaną stronę [java-od-zera.pl](https://www.java-od-zera.pl/). Tam dowiesz się wszystkiego co powinieneś wiedzieć. Następnie kliknij dołącz i potwierdź maila weryfikacyjnego. Szczegóły dostaniesz już niebawem ;)
+
 ## Instrukcja i założenia
 ### [YouTube](https://www.youtube.com/c/AnatomiaKodu)
 Materiały które tutaj będę umieszczał są nieodłączną częścią mojej serii filmów poświęconej Java na [YouTube](https://www.youtube.com/c/AnatomiaKodu), dlatego koniecznie obejrzyj nagranie najpierw zanim zerkniesz do kodu z danej lekcji.
@@ -42,8 +45,8 @@ Materiały które tutaj będę umieszczał są nieodłączną częścią mojej s
 ### [Grupa Facebook](https://www.facebook.com/groups/jak.zostac.programista.2)
 Dołącz do naszej zamkniętej grupy na [Facebook](https://www.facebook.com/groups/jak.zostac.programista.2). Tam możesz zadawać pytania i wymieniać się wiedzą.
 
-### [Discord](https://discord.gg/5BRYXqKr)
-Dołącz do naszego kanału na [Discord](https://discord.gg/5BRYXqKr) gdzie poruszamy zagadnienia związane z Java, zadajemy pytania i pracujemy razem. Używaj go również do Pair Programming i pracy w małej grupie.
+### Discord 
+Przeznaczony jest tylko dla uczestników programu "Java od Zera". Dołącz do naszego kanału na Discord gdzie poruszamy zagadnienia związane z Java, zadajemy pytania i pracujemy razem. Używaj go również do Pair Programming i pracy w małej grupie.
 
 ## LEKCJE
 ### Zanim zaczniesz:
