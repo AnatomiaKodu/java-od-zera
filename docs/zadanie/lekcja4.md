@@ -9,7 +9,7 @@
 5<sup>5</sup> ⋅ 6<sup>7</sup> - log12 =  
 (12<sup>2</sup> - 43) / 223 + 3<sup>5</sup> - 7<sup>3</sup> =  
 
-![img.png](../images/img.png)
+![img.png](../images/exercises.png)
 (źródło: https://matfiz24.pl/pierwiastki/na-czym-polega-pierwiastkowanie)
 
 
