@@ -20,18 +20,16 @@ Znajdziesz tutaj mnóstwo lekcji, które omawiają podstawowe zagadenia w najpro
 * metoda ***main***, ***klasy*** i ***metody***
 * rodzaje ***zmiennych*** w Java oraz zakres ich działania
 * typy wyliczeniowe, czyli ***enum***
-* interfejsy i klasy abstrakcyjne
-* konstruktory
+* kompozycji i dziedziczenia
+* konstruktory domyślne i argumentowe
 * operacje matematyczne
 * operacje na tekście - ***String***
 * Warunki logiczne ***if-else*** oraz ***switch-case***
 * Pętle ***for***, ***for-each***, ***while***, ***do-while***
-* tablice, listy i zbiory
-* mapy
+* tablice i listy
 * wyjątki zwykłe i typu ***Runtime***
 * obsługa wyjątku ***try-catch*** oraz ***try-catch-final***
 * debuggowanie
-* stosowania komentarzy
 
 ![zdjecie](docs/images/photo1.png)
 
