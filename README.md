@@ -82,7 +82,11 @@ Przeznaczony jest tylko dla uczestników programu "Java od Zera". Dołącz do na
 
 11. [Pętle zagnieżdżone i tablice 2D w Java](https://youtu.be/PsPI57kgzgo) // [ZADANIE DOMOWE](docs/zadanie/lekcja11.md)
 
-12. [Dziedziczenie w Java. Programowanie Obiektowe](https://youtu.be/Xi6cmo8VHH4) // [ZADANIE DOMOWE](docs/zadanie/lekcja12.md)
+12. [Dziedziczenie w Java. Programowanie Obiektowe](https://youtu.be/-6IgJRPjWbg) // [ZADANIE DOMOWE](docs/zadanie/lekcja12.md)
+
+13. [Klasy, Obiekty i Konstruktory. Wstęp do OOP w Java](https://youtu.be/Xi6cmo8VHH4) // [ZADANIE DOMOWE](docs/zadanie/lekcja13.md)
+
+14. [Wyjątki w Java i ich obsługa. Error, Exception i Runtime Exception ]() // [ZADANIE DOMOWE](docs/zadanie/lekcja14.md)
 
 
 ...następne wkrótce ;)

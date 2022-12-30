@@ -11,7 +11,7 @@
    
 Nadpisz co najmniej 2 wybrane konstruktory.
 
-3. Stwórz własny przykład z CheckedException i `try-catch-finally`. Może być podobny do przykładu z filmu - Autoryzacja lub wczytanie pliku.
+3. Stwórz własny przykład z CheckedException i `try-catch-finally`. Może być podobny do przykładu z filmu - autoryzacja lub wczytanie pliku.
 
 
 <p align="center">
