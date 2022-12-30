@@ -14,5 +14,6 @@ class Wolf {
 
     private void eat() {
         System.out.println("Wilk: Jestem Syty!!!! Najadłem się!");
+        throw new DoNotEatMyShipException("Zostaw owce!");
     }
 }
