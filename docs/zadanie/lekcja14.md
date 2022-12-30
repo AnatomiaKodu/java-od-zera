@@ -3,7 +3,7 @@
     <br/><br/>
 </p>
 
-1. Rozwiąż zadanie "Wilk syty i owca cała" w klasie `lekcja14.wyjatki.ExceptionsLesson`
+1. Rozwiąż zadanie "Wilk syty i owca cała" w klasie `lekcja14.wyjatki.ExceptionsLesson`. Rozwiązanie jest [tutaj](https://github.com/AnatomiaKodu/java-od-zera/blob/lekcja14-rozwiazanie/src/lekcja14/wyjatki/Wolf.java). 
 2. Stwórz swój własny:
     - wyjątek typu Runtime
     - wyjątek typu Checked
