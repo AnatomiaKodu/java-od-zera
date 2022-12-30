@@ -12,6 +12,7 @@
 Nadpisz co najmniej 2 wybrane konstruktory.
 
 3. Stwórz własny przykład z CheckedException i `try-catch-finally`. Może być podobny do przykładu z filmu - autoryzacja lub wczytanie pliku.
+4. Zbadaj Stacktrace'y które pojawiły się w Twoich programach. Sprawdź w której linii leci wyjątek i dlaczego. Stwórz nowe metody i klasy w których wywołasz wyjątek tak by wyświetlony Stacktrace był dłuższy. 
 
 
 <p align="center">
